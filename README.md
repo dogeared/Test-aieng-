@@ -1,1 +1,5 @@
-# Test-aieng-
+{
+  "completionId": "b537403e-3c7f-49a0-be05-a681027c506d",
+  "completionToken": "eyJhbGciOiJIUzUxMiJ9.eyJjb21wbGV0aW9uSWQiOiJiNTM3NDAzZS0zYzdmLTQ5YTAtYmUwNS1hNjgxMDI3YzUwNmQiLCJpYXQiOjE3ODMwMTc3MzEsImV4cCI6MTc4MzA2MTk5OX0.zeHr9hteF6A0Jsy87ulUyGohV41EBCsg1FIo4h-f0EL9D6ZSkXUrpuR11ZE3v1gR9qRY-3DJD4ohE2vJjorhJg",
+  "currency": "USD"
+}
